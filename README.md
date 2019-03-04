@@ -6,7 +6,7 @@ In this activity, you'll be creating an Amazon-like storefront with the MySQL sk
 
 # Screen Shots
 
-<img scr="images/working-app.png">
+![Working app](https://github.com/alreyes15/bamazon/blob/master/images/working-app.png)
 
 # Tools
 https://www.npmjs.com/package/cli-table
